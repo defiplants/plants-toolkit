@@ -1,9 +1,10 @@
 import { Colors } from "../../theme/types";
 import { Login } from "../WalletModal/types";
 
-export interface LangType {
+export interface Language {
   code: string;
   language: string;
+  locale: string;
 }
 
 export interface Profile {
