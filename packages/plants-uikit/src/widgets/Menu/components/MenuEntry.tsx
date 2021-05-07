@@ -58,7 +58,7 @@ const MenuEntry = styled.div<Props>`
   &.rainbow {
     background-clip: text;
     animation: ${rainbowAnimation} 3s ease-in-out infinite;
-    background: ${({ theme }) => theme.colors.gradients.bubblegum};
+    background: ${({ theme }) => theme.colors.tertiary};
     background-size: 400% 100%;
   }
 `;
