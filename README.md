@@ -4,8 +4,8 @@ This repository is a monorepo manage with [yarn workspaces](https://classic.yarn
 
 ## Packages
 
--   [plants-uikit](https://github.com/karlbalagtey/plants-toolkit/tree/master/packages/pancake-uikit) : React components used to build the UI
--   [eslint-config](https://github.com/karlbalagtey/plants-toolkit/tree/master/packages/eslint-config) : An ESLint config, with Typescript and Prettier support
+- [plants-uikit](https://github.com/karlbalagtey/plants-toolkit/tree/master/packages/plants-uikit) : React components used to build the UI
+- [eslint-config](https://github.com/karlbalagtey/plants-toolkit/tree/master/packages/eslint-config) : An ESLint config, with Typescript and Prettier support
 
 ## How to use
 

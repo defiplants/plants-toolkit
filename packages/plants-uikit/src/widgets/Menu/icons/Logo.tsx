@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from 'react-router-dom';
 import styled from "styled-components";
 
 interface LogoProps {
@@ -9,13 +8,13 @@ interface LogoProps {
 const Logo: React.FC<LogoProps> = ({ isDark, ...props }) => {
   const textColor = isDark ? "#FFFFFF" : "#000000";
   return (
-    <LogoText style={{ color: `${isDark}`}} {...props}>
+    <LogoText style={{ color: `${textColor}`}} {...props}>
       DigiPlants
     </LogoText>
   );
 };
 
-const LogoText = styled(Link)`
+const LogoText = styled.a`
   font-weight: 600;
 `;
 
