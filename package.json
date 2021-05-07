@@ -1,6 +1,6 @@
 {
   "name": "plants-toolkit",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "DefiPlants frontend packages",
   "workspaces": [
     "packages/*"
