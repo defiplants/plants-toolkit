@@ -1,0 +1,8 @@
+{
+  "name": "plants-toolkit",
+  "version": "1.0.0",
+  "description": "Toolkit for DefiPlants",
+  "main": "index.js",
+  "author": "Karl Balagtey, Jules Lee",
+  "license": "MIT"
+}
