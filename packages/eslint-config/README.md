@@ -2,14 +2,14 @@
 
 Eslint config with:
 
--   Airbnb config
--   Typescript
--   Prettier
+- Airbnb config
+- Typescript
+- Prettier
 
 ## Usage
 
 ```
-npx install-peerdeps --dev @plants-libs/eslint-config
+npx install-peerdeps --dev @defiplants/eslint-config
 ```
 
-Add `"extends": "@plants-libs/eslint-config"` to your eslint config file.
+Add `"extends": "@defiplants/eslint-config"` to your eslint config file.

@@ -1,4 +1,4 @@
-# 🥞 Plants UIkit
+# Plants UIkit
 
 [![Version](https://img.shields.io/npm/v/@defiplants/uikit)](https://www.npmjs.com/package/@defiplants/uikit) [![Size](https://img.shields.io/bundlephobia/min/@defiplants/uikit)](https://www.npmjs.com/package/@defiplants/uikit)
 
