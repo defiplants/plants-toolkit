@@ -7,14 +7,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/karlbalagtey/plants-toolkit.git"
+    "url": "git+https://github.com/defiplants/plants-toolkit.git"
   },
-  "author": "Karl Balagtey <karl.balagtey@gmail.com>, Jules Lee",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/karlbalagtey/plants-toolkit/issues"
+    "url": "https://github.com/defiplants/plants-toolkit/issues"
   },
-  "homepage": "https://github.com/karlbalagtey/plants-toolkit#readme",
+  "homepage": "https://github.com/defiplants/plants-toolkit#readme",
   "scripts": {
     "build": "lerna run build",
     "test": "lerna run test",

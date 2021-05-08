@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/karlbalagtey/plants-toolkit/tree/master/packages/plants-uikit",
+  "repository": "https://github.com/defiplants/plants-toolkit/tree/master/packages/plants-uikit",
   "license": "MIT",
   "scripts": {
     "start": "yarn storybook",

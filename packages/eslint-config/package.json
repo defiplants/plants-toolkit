@@ -6,7 +6,7 @@
   "files": [
     "lib"
   ],
-  "repository": "https://github.com/karlbalagtey/plants-toolkit/tree/master/packages/eslint-config",
+  "repository": "https://github.com/defiplants/plants-toolkit/tree/master/packages/eslint-config",
   "license": "MIT",
   "private": false,
   "dependencies": {
